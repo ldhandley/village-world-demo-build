@@ -1,3 +1,3 @@
 village-world-demo-build
 ========================
-README text here.
+`village-world-demo-build` is a CodeSpells build! Learn more at https://codespells.org.
